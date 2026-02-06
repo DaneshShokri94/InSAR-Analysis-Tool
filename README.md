@@ -10,7 +10,7 @@ A comprehensive toolkit for visualizing and analyzing **Interferometric Syntheti
 
 ---
 
-## ✨ Features
+## Features
 
 ### 🖥️ Desktop Applications
 - **ASF InSAR Viewer** - Professional GeoTIFF viewer for InSAR products
